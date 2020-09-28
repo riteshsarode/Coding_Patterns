@@ -1,0 +1,1 @@
+Coding patterns to work on your algorithms and problem-solving skills.Coding interview problems can be categorized into a set of 16 patterns. Try to build an understanding of the underlying patterns so that they can be applied to solve other problems.
